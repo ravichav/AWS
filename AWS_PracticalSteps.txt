@@ -134,7 +134,7 @@ git pull gradleproject
 aws configure
 
 IAM 
-click on user - sanjay
+click on user - john
 security credentials - create access key - download csv file.
 
 copy key value
@@ -185,7 +185,7 @@ display name
 create subscription
 change protocol from http to email
 
-endpoint - sanjay.degaonkar@capgemini.com
+endpoint - <EMAIL ID>
 
 
 confirm subscription
