@@ -88,7 +88,8 @@ Getting github project
 open new terminal
 git version
 cd /home
-cd /sanjay
+cd /
+
 mkdir samplerepo
 copy the path of gradle project from github
 
@@ -110,7 +111,7 @@ nano Dockerfile
 FROM qlik/gradle
 #FROM frekel/gradle:2.14.1-jdk7
 
-MAINTAINER sanjay.degaonkar@capgemini.com
+MAINTAINER <YOUR EMAIL ID>
 COPY . /var/project
 ENTRYPOINT ["java","version"]
 #ENTRYPOINT ["gradle","test"]
